@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "nombre": "Bomba Fumigadora",
+      "precio": 100,
+      "categoria": "agroforestal",
+      "descripcion": "Bomba de doble acción que otorga una alta precisión para uso en varias aplicaciones",
+      "imagen": "/images/BombaMotor.png"
+    },
+    {
+      "id": 2,
+      "nombre": "Motosierra",
+      "precio": 200,
+      "categoria": "agroforestal",
+      "descripcion": "Equipo ligero con gran potencia y rendimiento de corte ideal",
+      "imagen": "/images/Motosierra.png"
+    }
+  ]
