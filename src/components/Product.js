@@ -8,7 +8,7 @@ const Product = ({ product }) => {
 
   const { id, imagen, nombre, categoria, codigo } = product;
 
-  const phoneNumber = '+593980433551';
+  const phoneNumber = '+593968189548';
   const message = `Hola, me gustaría obtener más información sobre el producto:\n\nNombre: ${nombre}\nCategoría: ${categoria}\nCodigo: ${codigo}`;
 
   const whatsappUrl = `https://api.whatsapp.com/send?phone=${phoneNumber}&text=${encodeURIComponent(message)}`;
