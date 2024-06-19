@@ -1,5 +1,4 @@
 import React from 'react';
-import AnunImg from '../img/echo.svg';
 import { Link } from 'react-router-dom';
 
 const Hero = () => {
