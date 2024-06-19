@@ -21,8 +21,12 @@ module.exports = {
         primary: '#222222',
         secondary: '#F5E6E0',
       },
+      dropShadow: {
+        'custom': '0 4px 6px rgba(0, 0, 0, 0.4)',
+        'custom2': '0 4px 6px rgba(255, 255, 255, 0.6)',
+      },
       backgroundImage: {
-        hero: "url('./img/bg_hero.svg')",
+        hero: "url('./img/ImgAnun.jpg')",
       },
     },
   },
