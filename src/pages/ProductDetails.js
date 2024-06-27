@@ -33,7 +33,7 @@ const ProductDetails = () => {
             <h1 className='text-[26px] font-medium mb-2 max-w-[450px] mx-auto'>{nombre}</h1>
             <div className='text-xl text-red-500 font-medium mb-6'>{categoria}</div>
             <p>{descripcion}</p>
-            <button className='justify-center'>
+            <button className='justify-center mt-10'>
               <a href={whatsappUrl} target="_blank" rel="noopener noreferrer" className="flex items-center space-x-2">
                 <BsWhatsapp size={20} style={{ color: '#25D366' }} />
                 <span>Cotizar</span>
