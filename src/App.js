@@ -6,6 +6,7 @@ import ProductDetails from './pages/ProductDetails';
 import Sidebar from './components/Sidebar';
 import Header from './components/Header';
 import Footer from './components/Footer';
+import ProductType from './pages/ProductType';
 
 
 const App = () => {
@@ -15,6 +16,7 @@ const App = () => {
       <Routes>
         <Route path='/' element={<Home/>} />
         <Route path='/product/:id' element={<ProductDetails/>}/>
+        <Route path="/products/:type" element={<ProductType />} />
       </Routes>
       <Sidebar/>
       <Footer/>

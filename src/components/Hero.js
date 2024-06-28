@@ -16,7 +16,7 @@ const Hero = () => {
             Maquinaria Agrícola de la mejor calidad en Santa Isabel <br />
             <span className='font-semibold'>Agroforestal</span>
           </h1>
-          <Link to={'/'} className='self-start uppercase font-semibold border-b-2 border-primary text-white border-white'>Descubre más productos aquí</Link>
+          <Link to={'/products/all'} className='self-start uppercase font-semibold border-b-2 border-primary text-white border-white'>Descubre más productos aquí</Link>
         </div>
       </div>
     </section>

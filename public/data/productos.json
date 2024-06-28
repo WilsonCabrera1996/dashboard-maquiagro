@@ -4,6 +4,7 @@
       "nombre": "Bomba Fumigadora",
       "codigo": "SIRF-494",
       "categoria": "Agroforestal",
+      "tipo":"bomba",
       "descripcion": "Bomba de doble acción que otorga una alta precisión para uso en varias aplicaciones",
       "imagen": "/images/BombaMotor.png"
     },
@@ -12,22 +13,34 @@
       "nombre": "Motosierra",
       "codigo": "EC-CS-3520-40LA",
       "categoria": "Agroforestal",
+      "tipo":"motosierra",
       "descripcion": "Equipo ligero con gran potencia y rendimiento de corte ideal.",
       "imagen": "/images/Motosierra.png"
     },
     {
       "id": 3,
+      "nombre": "Motosierra 70cm",
+      "codigo": "EC-600SX-27",
+      "categoria": "Agroforestal",
+      "tipo":"motosierra",
+      "descripcion": "Motosierra ligera y potente para hacer frente a los trabajos mas pesados y exigentes",
+      "imagen": "/images/Motosierra600SX-27.png"
+    },
+    {
+      "id": 4,
       "nombre": "Tijeras a batería DUCATI",
       "codigo": "DCT-DPS3202S",
       "categoria": "Agroforestal",
+      "tipo":"tijera",
       "descripcion": "Diseñada para ofrecer máxima libertad y precisión en tareas de poda.",
       "imagen": "/images/TIJERABATERIA.png"
     },
     {
-      "id": 4,
+      "id": 5,
       "nombre": "Tijeras a batería ALTUNA",
       "codigo": "ALT-ACB20",
       "categoria": "Agroforestal",
+      "tipo":"tijera",
       "descripcion": "Tijera de poda a batería de litio COMMIT ACB20 que permite productividad en las labores de poda",
       "imagen": "/images/Tijeras a batería Español.png"
     }
