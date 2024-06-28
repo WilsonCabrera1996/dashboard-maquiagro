@@ -28,7 +28,7 @@ const ProductType = () => {
     <div>
       <section className='py-16'>
         <div className='container mx-auto'>
-          <h1 className='text-3xl font-semibold mb-8 mt-16 text-center'>{getTitle(type)}</h1>
+          <h1 className='text-3xl font-semibold mb-8 mt-10 text-center'>{getTitle(type)}</h1>
           <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6'>
             {filteredProducts.map(product => (
               <Product key={product.id} product={product} />

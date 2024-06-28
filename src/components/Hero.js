@@ -10,7 +10,7 @@ const Hero = () => {
       <div className='container relative mx-auto flex justify-around h-full'>
         <div className='flex flex-col justify-center'>
           <div className='font-semibold flex items-center uppercase'>
-            <div className='w-10 h-[2px] bg-red-500 mr-3 '></div><div className='text-white'>Promociones</div>
+            <div className='w-10 h-[2px] bg-red-500 mr-3 '></div><div className='text-white'>Santa Isabel, AZUAY Ecuador</div>
           </div>
           <h1 className='text-[70px] leading-[1.1] font-light mb-4 text-white drop-shadow-custom'>
             Maquinaria Agrícola de la mejor calidad en Santa Isabel <br />
