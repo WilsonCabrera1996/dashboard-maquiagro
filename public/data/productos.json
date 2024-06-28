@@ -10,7 +10,43 @@
     },
     {
       "id": 2,
-      "nombre": "Motosierra",
+      "nombre": "Motosierra ECHO 80cm",
+      "codigo": "EC-CS-7310P-80",
+      "categoria": "Agroforestal",
+      "tipo":"motosierra",
+      "descripcion": "Un equipo con gran potencia y rendimiento de corte excepcional, diseñado para ofrecer el máximo torque.",
+      "imagen": "/images/MotosierraCS-7310P-80.png"
+    },
+    {
+      "id": 3,
+      "nombre": "Motosierra ECHO 70cm",
+      "codigo": "EC-CS-680S-70LA",
+      "categoria": "Agroforestal",
+      "tipo":"motosierra",
+      "descripcion": "Esta motosierra destaca por su potencia, verstilidad y gran desempeño en trabajos de alta exigencia.",
+      "imagen": "/images/MotosierraCS-680S-70LA.png"
+    },
+    {
+      "id": 4,
+      "nombre": "Motosierra ECHO 60cm",
+      "codigo": "EC-CS-590-60PLA",
+      "categoria": "Agroforestal",
+      "tipo":"motosierra",
+      "descripcion": "Es una máquina potente y profesional, que ofrece el máximo rendimiento para el cuidado forestal y la agricultura.",
+      "imagen": "/images/Motosierra590-60PLA.png"
+    },
+    {
+      "id": 5,
+      "nombre": "Motosierra ECHO 50cm",
+      "codigo": "EC-CS-4510-50LA",
+      "categoria": "Agroforestal",
+      "tipo":"motosierra",
+      "descripcion": "Es un equipo potente y ligero, ideal para poda y tala de árboles medianos, con sistema de arranque EASY-START y sistema G-FORCE.",
+      "imagen": "/images/MotosierraCS-4510-50LA.png"
+    },
+    {
+      "id": 6,
+      "nombre": "Motosierra ECHO 40cm",
       "codigo": "EC-CS-3520-40LA",
       "categoria": "Agroforestal",
       "tipo":"motosierra",
@@ -18,8 +54,17 @@
       "imagen": "/images/Motosierra.png"
     },
     {
-      "id": 3,
-      "nombre": "Motosierra 70cm",
+      "id": 7,
+      "nombre": "Motosierra ECHO 30cm",
+      "codigo": "EC-CS-303T-30LA",
+      "categoria": "Agroforestal",
+      "tipo":"motosierra",
+      "descripcion": "Motosierra especial para poda, gracias a su mango tipo T.",
+      "imagen": "/images/Motosierra.png"
+    },
+    {
+      "id": 8,
+      "nombre": "Motosierra SHINDAIWA 70cm",
       "codigo": "EC-600SX-27",
       "categoria": "Agroforestal",
       "tipo":"motosierra",
@@ -27,7 +72,25 @@
       "imagen": "/images/Motosierra600SX-27.png"
     },
     {
-      "id": 4,
+      "id": 9,
+      "nombre": "Motosierra SHINDAIWA 50cm",
+      "codigo": "EC-591-20",
+      "categoria": "Agroforestal",
+      "tipo":"motosierra",
+      "descripcion": "Motosierra profesional para un rendimiento excepcional en trabajos de poda y tala en cualquier ambiente",
+      "imagen": "/images/Motosierra591-20.png"
+    },
+    {
+      "id": 10,
+      "nombre": "Motosierra SHINDAIWA 50cm",
+      "codigo": "EC-492-20",
+      "categoria": "Agroforestal",
+      "tipo":"motosierra",
+      "descripcion": "Motosierra profesional, con gran capacidad de corte. Su cilindro cromado prolonga la vida útil del motor.",
+      "imagen": "/images/Motosierra492-20.png"
+    },
+    {
+      "id": 11,
       "nombre": "Tijeras a batería DUCATI",
       "codigo": "DCT-DPS3202S",
       "categoria": "Agroforestal",
@@ -36,7 +99,7 @@
       "imagen": "/images/TIJERABATERIA.png"
     },
     {
-      "id": 5,
+      "id": 12,
       "nombre": "Tijeras a batería ALTUNA",
       "codigo": "ALT-ACB20",
       "categoria": "Agroforestal",
